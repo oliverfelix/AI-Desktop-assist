@@ -1,1 +1,1 @@
-"# AI-Desktop-assist" 
+"# AI-Desktop-assistant" 
